@@ -1,0 +1,32 @@
+Map Visualization of Sales by Region:
+
+1.Create a map that shows the total sales for each region (e.g., East, West, Central) in the Superstore sales dataset. Use the Region field to display the data and adjust the map to show sales values as size markers.
+
+
+2.Sales Distribution by Country:
+Use a filled map to show the distribution of sales across different countries. Ensure the map is filled based on total sales, using color to represent higher or lower sales volumes.
+
+
+3.Sales by State (Filled Map):
+Create a filled map that shows total sales across states. Ensure each state is shaded differently, depending on its sales value, and use a color scale to represent varying sales amounts.
+
+4.Customer Locations on a Map:
+Plot customer locations on a map using the City or Country fields from the dataset. Display the number of orders placed by each customer using size markers or color for differentiation.
+Sales Performance by Postal Code:
+
+5.Using a filled map, display total sales by postal code. Color-code the map based on sales performance (e.g., darker colors for higher sales).
+
+6.Sales and Profit by City:
+Create a map showing sales and profit by city. Use two different color gradients or bubble sizes to represent both metrics on the same map.
+
+7.Top N Locations by Sales:
+Plot the top 10 cities with the highest sales on a map. Display each city as a bubble, sized by the total sales, and color-coded to show their rank in sales.
+
+8.Sales Performance by Ship Mode (Map):
+Create a map that shows the average sales for each Ship Mode (e.g., Standard Class, Second Class) across different regions. Use a filled map to visualize how sales differ by Ship Mode across the map.
+
+9.Profit by State with Different Color Gradients:
+Use a filled map to display profit by state. Apply a color gradient where higher profit states are shown in one color (e.g., green), and lower profit states in another (e.g., red).
+
+10.Sales Comparison by City (Bubble Map):
+Create a map using bubbles to represent sales by city. The size of the bubble should reflect the total sales, while the color of the bubble can represent profit margins.
